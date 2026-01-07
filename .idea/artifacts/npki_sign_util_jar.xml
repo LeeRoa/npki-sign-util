@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="npki-sign-util:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/npki_sign_util_jar</output-path>
+    <root id="root">
+      <element id="archive" name="npki-sign-util.jar">
+        <element id="module-output" name="npki-sign-util.main" />
+      </element>
+      <element id="library" level="module" name="Gradle: bcutil-jdk18on-1.81.jar" module-name="npki-sign-util.main" />
+      <element id="library" level="module" name="Gradle: bcutil-jdk18on-1.81.jar" module-name="npki-sign-util.test" />
+      <element id="library" level="module" name="Gradle: bcpkix-jdk18on-1.81.jar" module-name="npki-sign-util.main" />
+      <element id="library" level="module" name="Gradle: bcprov-jdk18on-1.81.jar" module-name="npki-sign-util.main" />
+      <element id="library" level="module" name="Gradle: bcprov-jdk18on-1.81.jar" module-name="npki-sign-util.test" />
+      <element id="library" level="module" name="Gradle: bcpkix-jdk18on-1.81.jar" module-name="npki-sign-util.test" />
+    </root>
+  </artifact>
+</component>

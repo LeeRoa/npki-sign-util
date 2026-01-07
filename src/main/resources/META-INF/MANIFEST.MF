@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: bcutil-jdk18on-1.81.jar bcutil-jdk18on-1.81.jar bcpkix-jdk18
+ on-1.81.jar bcprov-jdk18on-1.81.jar bcprov-jdk18on-1.81.jar bcpkix-jdk1
+ 8on-1.81.jar
+
