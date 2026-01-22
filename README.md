@@ -1,9 +1,8 @@
 # 🔐 NPKI Sign Utility
 
-[![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Bouncy Castle](https://img.shields.io/badge/Security-Bouncy%20Castle-2E8B57?style=for-the-badge&logo=security&logoColor=white)](https://www.bouncycastle.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 > **"복잡한 NPKI 전자서명, 파일 경로만 넣으세요."** > 공인인증서(NPKI) 기반의 서명 및 검증 로직을 단 한 줄의 코드로 처리할 수 있도록 캡슐화한 자바 라이브러리입니다. Bouncy Castle을 기반으로 구현되었습니다.
 
